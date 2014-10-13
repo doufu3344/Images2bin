@@ -189,7 +189,7 @@ int main()
 			delete[] imgsMat;
 			std::vector<std::wstring>(imgFold).swap(imgFold);
 
-			system("pause");
+			//system("pause");
 		}
 		std::vector<std::wstring>(actioni).swap(actioni);
 	}
